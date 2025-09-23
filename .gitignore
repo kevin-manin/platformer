@@ -1,6 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
-
+.\Content\Assets\*
 
 # Compiled Object files
 *.slo
@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/__ExternalActors__/LocomotionAnimPack
+/Content/Assets
+/Content/FreeAnimationLibrary
+/Content/JayantChakradhariAssets_Free_Stylized_Lava_Rock
