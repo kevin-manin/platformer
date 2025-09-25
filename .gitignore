@@ -1,6 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
 .\Content\Assets\*
+./Content/Assets/*
 
 # Compiled Object files
 *.slo
